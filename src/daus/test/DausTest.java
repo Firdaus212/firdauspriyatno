@@ -11,6 +11,8 @@ package daus.test;
  */
 public class DausTest {
 
+    
+    String daus = "sudah";
     /**
      * @param args the command line arguments
      */
